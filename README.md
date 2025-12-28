@@ -24,5 +24,4 @@ Hey! I'm Ponraj, a passionate front-end developer and a 3rd-year Computer Scienc
 ```txt
 💻 HTML | CSS | JavaScript | React.js | Git | GitHub 
 ⚛️ Node.js | Express | MongoDB (learning)  
-🎨 Figma | Canva | Adobe Photoshop  
 🧪 VS Code | Netlify | Vercel
