@@ -56,15 +56,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Ponraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ponraj2006&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ponraj2006&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ponraj2006&theme=radical)
-
----
 
 ⭐ **Thanks for visiting my profile!**  
 🚀 Always learning • Always building • Always improving
