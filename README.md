@@ -38,31 +38,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 Movie Finder Web App
-🔹 Responsive movie search application using **OMDb API**  
-🔹 Built with **HTML, CSS, JavaScript**  
-🔹 API integration, loader animation & error handling  
-
-👉 **Live Demo:** https://your-live-link-here  
-👉 **Repo:** https://github.com/your-username/movie-finder
-
----
-
-### 📰 News Website (Dark Theme)
-🔹 Real-time news using free API  
-🔹 Clean UI with dark theme  
-🔹 Fully responsive design  
-
----
-
-### ❓ Quiz App
-🔹 Dynamic quiz application  
-🔹 JavaScript logic & DOM manipulation  
-🔹 Clean and interactive UI  
-
----
 
 ## 📈 What I'm Learning Now
 
@@ -75,17 +50,19 @@
 
 ## 🤝 Connect With Me
 
-- 📧 Email: your-email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-profile  
+- 📧 Email: ponrajk2006@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ponraj-k-481213359/  
 - 🌐 Portfolio: coming soon...
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ponraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Ponraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ponraj2006&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ponraj2006&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ponraj2006&theme=radical)
 
 ---
 
